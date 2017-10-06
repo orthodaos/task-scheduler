@@ -1,0 +1,6 @@
+100ms   ,200ms   ,0    ,100ms  ,40ms    ,80ms
+200ms   ,150ms   ,0s   ,50ms   ,40ms    ,333ms,10ms  ,30ms ,400ms,350ms
+1s      ,1s 300ms,600ms,333ms  ,1s 500ms,240ms,290ms ,330ms,50ms ,777ms
+300ms   ,180ms   ,140ms,-50ms  ,666ms   ,240ms,290ms ,330ms,50ms
+1s 300ms,777ms   ,180ms,140ms  ,50ms    ,250ms,-240ms,290ms,330ms,50ms
+300ms   ,45ms    ,-2s  ,1s 50ms,900ms   ,900ms,901ms ,1s   ,-50ms,666ms
